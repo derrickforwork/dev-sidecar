@@ -65,6 +65,6 @@ function testRequest () {
   })
 }
 
-// testCa()
+testCa()
 
 testRequest()
